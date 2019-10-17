@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: #000000;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	color: black;
+}
+header{
+	background-color: #FFFFFF;
+	margin: 0;
+	padding; 20px;
+	text-align: center
+	
+}
+article {
+	background-color: #FFFFFF;
+	margin: 0;
+	padding; 20px;
+}
+img {
+	width: 19.80%;
+	float: left;
+	padding-right: 2%;
+}
+
+h1 {
+  color: #5E0E40;
+}
+
